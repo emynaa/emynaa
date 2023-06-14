@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 <h3 align="center">A passionate DevOps Engineer from Tunisia, I work at Fis Technology</h3>
 
-- 🔭 I’m currently working at **Fis Technology**
+- 🔭 I’m currently working in **Ubix Project**
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
